@@ -1,4 +1,4 @@
-package com.rajhasti.java.core;
+package com.rajhasti.java.basics;
 
 /**
  * Hello world!
